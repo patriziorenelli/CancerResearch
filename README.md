@@ -54,6 +54,7 @@ We then find the files:
  *PDC_DownloadData: contains functions that allow you to download all data available on the PDC repository
  
 ### Database structure
+![image](https://github.com/patriziorenelli/CancerResearch/assets/19751923/5356e0d4-bcb0-45be-a05f-d2922dd73cd5)
 
 The code allows you to download the data offered by the two repositories (GDC - PDC) trying to convert them into a common standard, 
 the database structure is designed to contain all the various data at the same time.
