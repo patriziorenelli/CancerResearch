@@ -21,7 +21,7 @@ webscraping was used to obtain all data not available via API.
 > You must manually install all necessary software and libraries
 
 <p>
-    <img  src="https://github.com/patriziorenelli/CancerResearch/assets/19751923/3b487ca7-ade5-452f-aa2a-ccd92ada55b3" hspace="100" width="180" height="180">
+    <img  src="https://github.com/patriziorenelli/CancerResearch/assets/19751923/3b487ca7-ade5-452f-aa2a-ccd92ada55b3" hspace="100" width="200" height="200">
     <img  src="https://github.com/patriziorenelli/CancerResearch/assets/19751923/13a63054-1597-45f5-8e81-5271629efb70"  width="250" height="250" >
 </p>
 
