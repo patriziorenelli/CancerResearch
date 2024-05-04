@@ -19,6 +19,8 @@ webscraping was used to obtain all data not available via API.
 ### Technologies used - Requirements
 
 > You must manually install all necessary software and libraries
+![image](https://github.com/patriziorenelli/CancerResearch/assets/19751923/3b487ca7-ade5-452f-aa2a-ccd92ada55b3)
+![image](https://github.com/patriziorenelli/CancerResearch/assets/19751923/13a63054-1597-45f5-8e81-5271629efb70)
 
 All code was developed in Python
 A Postgres database is used for local data storage.
